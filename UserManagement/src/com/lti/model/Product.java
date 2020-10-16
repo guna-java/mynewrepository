@@ -4,7 +4,9 @@ public class Product {
 	int prodId;
 	String prodName;
 	
-	
+	int quantity;
+	double price;
+
 	
 	public int getProdQuantity() {
 		return prodquatity;
