@@ -6,6 +6,7 @@ public class Product {
 	
 	int quantity;
 	double price;
+
 	
 	public int getProdQuantity() {
 		return prodquatity;
